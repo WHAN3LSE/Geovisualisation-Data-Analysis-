@@ -1,0 +1,171 @@
+---
+title: "Data Analysis"
+output: html_document
+runtime: shiny
+---
+
+```{r, warning = FALSE, message = FALSE, echo=FALSE}
+library(readxl)
+library(tidyverse)
+
+
+##Import Dataset
+air_pollution_2_ <- read_excel("air_pollution (2).xlsx")
+lung_cancer_incidence <- read_excel("lung_cancer_incidence.xlsx")
+cigarette_consumption <- read_excel("cigarette_consumption.xlsx")
+
+#Combine the Lung Rate Dataset 
+full <- full_join(x = air_pollution_2_, y = lung_cancer_incidence)
+df <- full_join(x = full, y = cigarette_consumption)
+df <- rename(df, name = country)
+
+
+#Load World Data
+country_centroids_az8 <- read_excel("country_centroids_az8.xls")
+country <- country_centroids_az8 %>% 
+  select(name, Longitude, Latitude)
+
+#Merge All Datasets 
+merge <- full_join(x = df, y = country)
+
+#Omit NAs
+f <- na.omit(merge)
+
+#Rename the variables
+f <- rename(f, female = incid_F)
+f <- rename(f, male = incid_M)
+f <- rename(f, ADMIN = name)
+
+f$male <- as.numeric(f$male)
+f$female <- as.numeric(f$female)
+f$consumption<-as.numeric(f$consumption)
+f$HDI_2015<-as.numeric(f$HDI_2015)
+
+#Round all values to numeric 
+af <- f%>%
+  mutate_if(is.numeric, round,digits=2)%>%
+  select(ADMIN, male, female, consumption, HDI_2015,`income group`)
+af <- na.omit(af)
+
+#Reshape Data
+library(reshape2)
+reshape <- af %>% 
+  select(ADMIN,  male, female, consumption, HDI_2015,`income group`)%>%
+  pivot_longer(cols = male:female, names_to = "sex", values_to = "value")
+
+#Remove Duplicates
+reshape <- reshape[!duplicated(reshape), ]
+
+
+```
+
+```{r, warning = FALSE, message = FALSE,echo=FALSE}
+
+library(shiny)
+library(leaflet)
+library(geojsonio)
+library(RColorBrewer)
+library(sp)
+library(gt)
+library(broom)
+
+ui <- fluidPage(
+  titlePanel("Cigarette Consumption and HDI Index Relationship Graph"),
+  sidebarLayout(
+    sidebarPanel(
+      sliderInput(inputId = "consumption",
+                  label = "Number of cigarettes (smoked per person per year: age ≥ 15, 2016; estimates are of legally-sold machine-made and roll-your-own cigarette consumption)",
+                  min = 30,
+                  max = 4000,
+                  value = c(30, 4000)),
+      radioButtons(inputId = "sex",
+                   label = "sex",
+                   choices = c("male", "female")),
+      selectInput(inputId = "ADMIN",
+                  label = "Country",
+                  choices = sort(unique(reshape$ADMIN)),
+                  multiple = TRUE)
+    ),
+    mainPanel(
+      tabsetPanel(
+        tabPanel("Plot", plotOutput("Plot")),
+        tabPanel("Regression",tableOutput("regression")),
+        tabPanel("Summary", verbatimTextOutput("summary")),
+        tabPanel("Table", tableOutput("Table"))  
+        )
+    )
+  )
+)
+
+
+server <- function(input, output) {
+  reshape_filter <- reactive({
+    w <- reshape
+    
+    # filter by ADMIN
+    if(!is.null(input$ADMIN)) {
+        w <- filter(w, ADMIN %in% input$ADMIN)
+    }
+    
+    # filter by sex
+    w <- filter(w, sex == input$sex)
+    
+    # filter by hourly consumption
+    w <- filter(w,
+                        consumption >= input$consumption[[1]],
+                        consumption <= input$consumption[[2]])
+  })
+
+
+  output$sex <- renderUI({
+    employees <- employ
+    
+    # filter by ADMIN
+    if(!is.null(input$ADMIN)) {
+        w <- filter(w, ADMIN %in% input$ADMIN)
+    }
+
+    
+    # filter by hourly wage
+        w <- filter(w,
+                        consumption >= input$consumption[[1]],
+                        consumption <= input$consumption[[2]])
+        
+    
+    selectInput(inputId = "sex",
+                label = "sex",
+                choices = sort(unique(w$sex)),
+                multiple = TRUE)
+  })
+  
+  output$Plot <- renderPlot({
+    ggplot(reshape_filter(), aes(consumption, HDI_2015, colour = `income group`)) +
+  geom_point()
+  })
+
+  output$Table <- renderTable({
+    reshape_filter() 
+  })
+  
+  output$summary <- renderPrint({
+    model <- lm(HDI_2015 ~ consumption, data = reshape)
+    summary(model)
+  })
+  
+  output$regression <-
+    renderTable({
+      fit <-lm(HDI_2015 ~ consumption, data = reshape)
+      tidy(fit, conf.int=TRUE) %>% 
+        select(Variable = term,
+               Estimate = estimate,
+               `Lower Bound` = conf.low,
+               `Upper Bound` = conf.high) %>%
+        gt() %>% 
+        tab_header(title = "Effect of Consumption on HDI")})
+
+}
+
+shinyApp(ui = ui, server = server)
+
+```
+

@@ -1,0 +1,296 @@
+NAME,POP_EST,POP_RANK,GDP_MD_EST,POP_YEAR,GDP_YEAR,ECONOMY,ISO_A2,ISO_A3,Cigarette consumption,female_incidence,male_incidence,concentration_norange
+Indonesia,260580739.00,"17",3028000.00,"2017","2016",4. Emerging region: MIKT,ID,IDN,1675.48815941294,6,19.4,15.580
+Malaysia,31381992.00,"15",863000.00,"2017","2016",6. Developing region,MY,MYS,441.162286917936,8.2,22.5,16.040
+Chile,17789267.00,"14",436100.00,"2017","2016",5. Emerging region: G20,CL,CHL,769.343490828741,10.6,17,21.030
+Bolivia,11138234.00,"14",78350.00,"2017","2016",5. Emerging region: G20,BO,BOL,291.595531671637,5.5,10.3,20.240
+Peru,31036656.00,"15",410400.00,"2017","2016",5. Emerging region: G20,PE,PER,97.6932864957748,8.9,9.5,24.270
+Argentina,44293293.00,"15",879400.00,"2017","2016",5. Emerging region: G20,AR,ARG,1176.13308206321,13.3,26.3,11.830
+Dhekelia,7850.00,"5",314.00,"2013","2013",2. Developed region: nonG7,"-99","-99",,,,
+Cyprus,1221549.00,"12",29260.00,"2017","2016",6. Developing region,CY,CYP,1961.35229970149,8.4,41,16.790
+India,1281935911.00,"18",8721000.00,"2017","2016",3. Emerging region: BRIC,IN,IND,89.2887853126138,3,7.8,65.200
+China,1379302771.00,"18",21140000.00,"2017","2016",3. Emerging region: BRIC,CN,CHN,2043.00655317423,22.8,47.8,49.160
+Israel,8299706.00,"13",297000.00,"2017","2016",2. Developed region: nonG7,IL,ISR,1280.73133960997,15.2,27.8,19.460
+Gaza,1795183.00,"12",0.77,"2017","2016",7. Least developed region,"-99","-99",,,,
+West Bank,2747943.00,"12",21220.00,"2017","2014",6. Developing region,"-99","-99",,,,
+Lebanon,6229794.00,"13",85160.00,"2017","2016",6. Developing region,LB,LBN,2037.53503604229,14.8,31.3,30.670
+Ethiopia,105350020.00,"17",174700.00,"2017","2016",7. Least developed region,ET,ETH,115.285935268881,3.4,3.8,34.360
+South Sudan,13026129.00,"14",20880.00,"2017","2016",7. Least developed region,SS,SSD,383.673503003913,2.2,3.6,41.120
+Puntland,3900000.00,"12",2443.65,"0","2012",7. Least developed region,"-99","-99",,,,
+Somalia,3631386.00,"12",2275.35,"2012","2012",7. Least developed region,"-99","-99",198.465696718058,3.1,3.7,29.510
+Kenya,47615739.00,"15",152700.00,"2017","2016",5. Emerging region: G20,KE,KEN,264.37549499481,2.3,3.6,25.850
+Pakistan,204924861.00,"17",988200.00,"2017","2016",5. Emerging region: G20,PK,PAK,363.165996945084,2.6,11.5,55.210
+Malawi,19196246.00,"14",21200.00,"2017","2016",7. Least developed region,MW,MWI,241.080739274205,1,2.4,22.140
+Tanzania,53950935.00,"16",150600.00,"2017","2016",7. Least developed region,TZ,TZA,181.784577091214,0.24,0.85,
+UNDOF Zone,84000.00,"8",234.27,"2013","2013",6. Developing region,XD,"-99",,,,
+Somaliland,3500000.00,"12",12250.00,"2013","2013",6. Developing region,"-99","-99",,,,
+French Guiana,212050.38,"10",1862.83,"2017","2016",1. Developed region: G7,GF,GUF,359.137092564117,12.8,27.2,
+Suriname,591919.00,"11",8547.00,"2017","2016",6. Developing region,SR,SUR,511.740278394164,9.3,25.7,23.600
+Guyana,737718.00,"11",6093.00,"2017","2016",6. Developing region,GY,GUY,359.137092564117,2.3,5,20.460
+Korean DMZ (south),218.00,"2",218.00,"0","2013",4. Emerging region: MIKT,"-99","-99",,,,
+Korean DMZ (north),0.00,"1",0.00,"2017","2016",7. Least developed region,"-99","-99",,,,
+Morocco,33986655.00,"15",282800.00,"2017","2016",6. Developing region,MA,MAR,682.310761742201,3.5,31.9,30.990
+W. Sahara,603253.00,"11",906.50,"2017","2007",7. Least developed region,EH,ESH,,0,0,
+Costa Rica,4930258.00,"12",79260.00,"2017","2016",5. Emerging region: G20,CR,CRI,411.374472243504,3.9,9.5,15.850
+Nicaragua,6025951.00,"13",33550.00,"2017","2016",6. Developing region,NI,NIC,327.793678599361,4.5,7.7,16.870
+Congo,4954674.00,"12",30270.00,"2017","2016",6. Developing region,CG,COG,195.249415641536,1.5,3.4,38.670
+Dem. Rep. Congo,83301151.00,"16",66010.00,"2017","2016",7. Least developed region,CD,COD,128.023906444653,2.4,3.9,37.620
+Bhutan,758288.00,"11",6432.00,"2017","2016",7. Least developed region,BT,BTN,,8.7,7.1,35.320
+Ukraine,44033874.00,"15",352600.00,"2017","2016",6. Developing region,UA,UKR,1849.40507404813,6.5,41.7,18.290
+Belarus,9549747.00,"13",165400.00,"2017","2016",6. Developing region,BY,BLR,2911.29789859527,5.7,54.5,18.060
+Namibia,2484780.00,"12",25990.00,"2017","2016",6. Developing region,NA,NAM,298.411596536857,3.1,5.6,22.590
+South Africa,54841552.00,"16",739100.00,"2017","2016",5. Emerging region: G20,ZA,ZAF,509.554347287183,9.7,28.2,23.580
+Syria,17944549.00,"14",98830.00,"2017","2015",6. Developing region,SY,SYR,2291.74262265683,8.6,26.6,39.430
+St-Martin,32125.00,"7",561.50,"2017","2016",6. Developing region,MF,MAF,,,,
+Sint Maarten,42083.00,"7",365.80,"2017","2014",6. Developing region,SX,SXM,,,,
+Oman,3424386.00,"12",173100.00,"2017","2016",6. Developing region,OM,OMN,271.092924066913,1.5,7.1,38.250
+Uzbekistan,29748859.00,"15",202300.00,"2017","2016",6. Developing region,UZ,UZB,495.918491191322,4.1,14.1,25.290
+Kazakhstan,18556698.00,"14",460700.00,"2017","2016",6. Developing region,KZ,KAZ,1800.87673454467,6.5,43.8,11.320
+Tajikistan,8468555.00,"13",25810.00,"2017","2016",6. Developing region,TJ,TJK,361.144737773851,3.8,7.5,40.050
+Lithuania,2823859.00,"12",85620.00,"2017","2016",2. Developed region: nonG7,LT,LTU,1292.01667137451,9.2,52.6,11.490
+Brazil,207353391.00,"17",3081000.00,"2017","2016",3. Emerging region: BRIC,BR,BRA,333.497807226723,10.5,16.4,11.490
+Uruguay,3360148.00,"12",73250.00,"2017","2016",5. Emerging region: G20,UY,URY,899.387918582801,13.5,46.2,8.630
+Mongolia,3068243.00,"12",37000.00,"2017","2016",6. Developing region,MN,MNG,1982.45283986264,6.3,36.8,40.420
+Russia,142257519.00,"17",3745000.00,"2017","2016",3. Emerging region: BRIC,RU,RUS,2294.96223415033,8.1,48.2,13.750
+Czechia,10674723.00,"14",350900.00,"2017","2016",2. Developed region: nonG7,CZ,CZE,2427.88273718084,18.2,38.5,15.150
+Germany,80594017.00,"16",3979000.00,"2017","2016",1. Developed region: G7,DE,DEU,1599.51621315696,27.4,41,11.710
+Estonia,1251581.00,"12",38700.00,"2017","2016",2. Developed region: nonG7,EE,EST,1759.90915755332,14.9,51.4,6.740
+Latvia,1944643.00,"12",50650.00,"2017","2016",2. Developed region: nonG7,LV,LVA,1189.08520533228,9.6,51.8,12.720
+Norway,5317358.00,"13",364699.00,"2017","2016",2. Developed region: nonG7,NO,NOR,552.786085200258,29.2,30.9,7.020
+Sweden,9960487.00,"13",498100.00,"2017","2016",2. Developed region: nonG7,SE,SWE,716.158112297119,18.1,16.9,5.890
+Finland,5491218.00,"13",224137.00,"2017","2016",2. Developed region: nonG7,FI,FIN,1098.80409344331,14.7,24.8,5.880
+Vietnam,96160163.00,"16",594900.00,"2017","2016",5. Emerging region: G20,VN,VNM,1049.57105077546,11.1,35.4,29.660
+Cambodia,16204486.00,"14",58940.00,"2017","2016",7. Least developed region,KH,KHM,726.150460416249,8.7,21.6,23.980
+Luxembourg,594130.00,"11",58740.00,"2017","2016",2. Developed region: nonG7,LU,LUX,6330.87275071208,18.2,40,10.210
+United Arab Emirates,6072475.00,"13",667200.00,"2017","2016",6. Developing region,AE,ARE,748.454114804254,5,7,39.440
+France,64874402.21,"16",2679203.12,"2017","2016",1. Developed region: G7,FR,FRA,1089.86833299557,22.5,51.3,11.640
+Flemish,6251983.00,"13",276708.97,"2017","2016",2. Developed region: nonG7,"-99","-99",,,,
+Walloon,3456775.00,"12",152994.76,"2017","2016",2. Developed region: nonG7,"-99","-99",,,,
+Georgia,4550314.00,"12",34425.26,"2017","2016",6. Developing region,"-99","-99",1917.72495351458,3.7,35.7,21.200
+Macedonia,2103721.00,"12",29520.00,"2017","2016",6. Developing region,MK,MKD,2784.92825057468,14.3,55.7,28.340
+Albania,3047987.00,"12",33900.00,"2017","2016",6. Developing region,AL,ALB,2491.59923222,7.1,37.8,17.870
+Azerbaijan,9961396.00,"13",167900.00,"2017","2016",6. Developing region,AZ,AZE,1525.56690636188,2.6,25.5,18.200
+Kosovo,1895250.00,"12",18490.00,"2017","2016",6. Developing region,XK,"-99",,,,
+Turkey,80845215.00,"16",1670000.00,"2017","2016",4. Emerging region: MIKT,TR,TUR,1770.72915780026,9.8,70.6,41.970
+Adjara,376016.00,"10",2844.74,"2013","2013",6. Developing region,"-99","-99",,,,
+Spain,48958159.00,"15",1690000.00,"2017","2016",2. Developed region: nonG7,ES,ESP,1498.99361556605,14,42.1,9.480
+Laos,7126706.00,"13",40960.00,"2017","2016",7. Least developed region,LA,LAO,814.639036372325,10.2,29.4,24.490
+Kyrgyzstan,5789122.00,"13",21010.00,"2017","2016",6. Developing region,KG,KGZ,519.594099601047,5,26.8,18.120
+Armenia,3045191.00,"12",26300.00,"2017","2016",6. Developing region,AM,ARM,1985.66779553815,8.5,58.5,30.480
+Denmark,5605948.00,"13",264800.00,"2017","2016",2. Developed region: nonG7,DK,DNK,1298.03935005252,36.3,37.3,10.120
+Libya,6653210.00,"13",90890.00,"2017","2016",6. Developing region,LY,LBY,327.162907936719,2.9,26.4,44.170
+Tunisia,11403800.00,"14",130800.00,"2017","2016",6. Developing region,TN,TUN,1579.95017988485,2.5,26.5,35.660
+Romania,21529967.00,"15",441000.00,"2017","2016",2. Developed region: nonG7,RO,ROU,1204.26567689215,12.7,50.7,14.290
+Hungary,9850845.00,"13",267600.00,"2017","2016",2. Developed region: nonG7,HU,HUN,2060.33948595176,41.4,77.4,15.620
+Slovakia,5445829.00,"13",168800.00,"2017","2016",2. Developed region: nonG7,SK,SVK,1500.89838303244,13.2,54.3,17.540
+Poland,38476269.00,"15",1052000.00,"2017","2016",2. Developed region: nonG7,PL,POL,1363.10416129243,24.5,52.7,20.540
+Ireland,5011102.00,"13",322000.00,"2017","2016",2. Developed region: nonG7,IE,IRL,976.498921360886,29.2,38.8,8.260
+N. Ireland,1857554.41,"12",100541.01,"2017","2016",1. Developed region: G7,"-99","-99",,,,
+Greece,10768477.00,"14",290500.00,"2017","2016",2. Developed region: nonG7,GR,GRC,2078.55348350581,16.4,67.8,15.690
+Zambia,15972000.00,"14",65170.00,"2017","2016",7. Least developed region,ZM,ZMB,145.424073122186,3.5,4,24.700
+Sierra Leone,6163195.00,"13",10640.00,"2017","2016",7. Least developed region,SL,SLE,468.591604175042,1.4,3.2,20.630
+Guinea,12413867.00,"14",16080.00,"2017","2016",7. Least developed region,GN,GIN,316.03899763037,1.2,3.7,22.430
+Liberia,4689021.00,"12",3881.00,"2017","2016",7. Least developed region,LR,LBR,154.430601630237,1.3,3.7,17.190
+Central African Rep.,5625118.00,"13",3206.00,"2017","2016",7. Least developed region,CF,CAF,213.152318335965,1.6,3,49.500
+Sudan,37345935.00,"15",176300.00,"2017","2016",6. Developing region,SD,SDN,339.854667408331,1.7,2.9,47.920
+Djibouti,865267.00,"11",3345.00,"2017","2016",7. Least developed region,DJ,DJI,785.520462297644,2.2,3,40.380
+Eritrea,5918919.00,"13",9169.00,"2017","2016",7. Least developed region,ER,ERI,132.324921436019,2.6,3.3,42.400
+Austria,8754413.00,"13",416600.00,"2017","2016",2. Developed region: nonG7,AT,AUT,1926.95176356546,23.3,33.2,12.430
+Iraqi Kurdistan,4690939.00,"12",71419.56,"2013","2013",6. Developing region,"-99","-99",,,,
+Italy,62137802.00,"16",2221000.00,"2017","2016",1. Developed region: G7,IT,ITA,1493.27036239754,16,34.5,15.280
+Switzerland,8236303.00,"13",496300.00,"2017","2016",2. Developed region: nonG7,CH,CHE,1489.79612122246,19.3,26.6,10.210
+Iran,82021564.00,"16",1459000.00,"2017","2016",5. Emerging region: G20,IR,IRN,936.543731267417,5.5,12.5,35.090
+Netherlands,17063586.00,"14",869722.86,"2017","2016",2. Developed region: nonG7,"-99","-99",1459.86761707245,32.7,34.5,12.070
+Liechtenstein,38244.00,"7",4978.00,"2017","2014",2. Developed region: nonG7,LI,LIE,,0,0,
+Cte d'Ivoire,24184810.00,"15",87120.00,"2017","2016",6. Developing region,CI,CIV,352.666385805046,1.4,3.4,
+Vojvodina,1948420.58,"12",27893.20,"2017","2016",6. Developing region,"-99","-99",,,,
+Mali,17885245.00,"14",38090.00,"2017","2016",7. Least developed region,ML,MLI,316.929973069671,1.5,5.5,31.170
+Senegal,14668522.00,"14",39720.00,"2017","2016",7. Least developed region,SN,SEN,359.407775752547,1.4,3.7,37.520
+Nigeria,190632261.00,"17",1089000.00,"2017","2016",5. Emerging region: G20,NG,NGA,162.497092426172,1,1.6,48.730
+Benin,11038805.00,"14",24310.00,"2017","2016",7. Least developed region,BJ,BEN,204.018947328101,0.96,0.94,33.110
+Angola,29310273.00,"15",189000.00,"2017","2016",7. Least developed region,AO,AGO,340.187348465269,2.6,4.2,27.950
+Croatia,4292095.00,"12",94240.00,"2017","2016",2. Developed region: nonG7,HR,HRV,1578.88142157263,18,50.9,17.030
+Slovenia,1972126.00,"12",68350.00,"2017","2016",2. Developed region: nonG7,SI,SVN,2236.47996586074,20.8,46.6,15.810
+Qatar,2314307.00,"12",334500.00,"2017","2016",6. Developing region,QA,QAT,1020.33956168215,5.8,10.3,90.350
+Saudi Arabia,28571770.00,"15",1731000.00,"2017","2016",2. Developed region: nonG7,SA,SAU,1340.95632182774,2.5,5.8,78.380
+Botswana,2214858.00,"12",35900.00,"2017","2016",6. Developing region,BW,BWA,433.476999601378,0.79,6.4,21.240
+Zimbabwe,13805084.00,"14",28330.00,"2017","2016",5. Emerging region: G20,ZW,ZWE,122.857034694578,3.3,5.8,19.350
+Bulgaria,7101510.00,"13",143100.00,"2017","2016",2. Developed region: nonG7,BG,BGR,1757.25277727853,11.3,50.1,18.820
+Thailand,68414135.00,"16",1161000.00,"2017","2016",5. Emerging region: G20,TH,THA,837.416467611834,13.1,29.4,26.230
+San Marino,33537.00,"7",2023.00,"2017","2016",2. Developed region: nonG7,SM,SMR,,,,13.450
+Haiti,10646714.00,"14",19340.00,"2017","2016",7. Least developed region,HT,HTI,143.032751262684,7,6,14.630
+Dominican Rep.,10734247.00,"14",161900.00,"2017","2016",6. Developing region,DO,DOM,218.915336473506,10.4,14.6,12.950
+Chad,12075985.00,"14",30590.00,"2017","2016",7. Least developed region,TD,TCD,279.32964567869,1.2,2,53.010
+Kuwait,2875422.00,"12",301100.00,"2017","2016",6. Developing region,KW,KWT,1412.67961494197,5.3,8.7,57.170
+Iraq,34501172.00,"15",525280.44,"2017","2016",6. Developing region,"-99","-99",1184.43919134223,5,17.4,57.730
+El Salvador,6172011.00,"13",54790.00,"2017","2016",6. Developing region,SV,SLV,206.702970565218,4.8,6.4,23.420
+Guatemala,15460732.00,"14",131800.00,"2017","2016",6. Developing region,GT,GTM,111.774088711766,2.5,3.9,23.590
+Timor-Leste,1291358.00,"12",4975.00,"2017","2016",7. Least developed region,TL,TLS,,7.2,15,17.880
+Brunei,443593.00,"10",33730.00,"2017","2016",6. Developing region,BN,BRN,9.67612439286855,26.6,34.4,
+Monaco,30645.00,"7",7672.00,"2017","2015",2. Developed region: nonG7,MC,MCO,,0,0,12.200
+Algeria,40969443.00,"15",609400.00,"2017","2016",6. Developing region,DZ,DZA,1046.66874006302,2.9,17.4,35.170
+Mozambique,26573706.00,"15",35010.00,"2017","2016",7. Least developed region,MZ,MOZ,501.902089909384,1.4,1.9,19.440
+eSwatini,1467152.00,"12",11060.00,"2017","2016",6. Developing region,SZ,SWZ,91.6602606328958,1.8,4.3,
+Burundi,11466756.00,"14",7892.00,"2017","2016",7. Least developed region,BI,BDI,239.446599708728,1.1,2.6,35.610
+Rwanda,11901484.00,"14",21970.00,"2017","2016",7. Least developed region,RW,RWA,93.9934147706611,3.4,4.4,40.750
+Myanmar,55123814.00,"16",311100.00,"2017","2016",7. Least developed region,MM,MMR,226.500848821059,11.9,19.5,34.690
+Bangladesh,157826578.00,"17",628400.00,"2017","2016",7. Least developed region,BD,BGD,744.084195672681,4.6,14.1,58.330
+Andorra,85702.00,"8",3327.00,"2017","2015",2. Developed region: nonG7,AD,AND,6398.30000252273,0,0,9.950
+Afghanistan,34124811.00,"15",64080.00,"2017","2016",7. Least developed region,AF,AFG,311.602536216789,3.2,9.4,53.170
+Serbia,5162603.42,"13",73906.80,"2017","2016",6. Developing region,"-99","-99",1898.57088698689,30.9,71.6,24.270
+Montenegro,642550.00,"11",10610.00,"2017","2016",6. Developing region,ME,MNE,1100.83077386426,19.5,62.9,20.170
+Bosnia and Herzegovina,2325003.96,"12",25642.58,"2017","2016",6. Developing region,"-99","-99",1767.15838870014,13.5,62.4,
+Rep. Srpska,1438241.54,"12",15862.43,"2017","2016",6. Developing region,"-99","-99",,,,
+Uganda,39570125.00,"15",84930.00,"2017","2016",7. Least developed region,UG,UGA,195.721274724526,1.9,4.3,48.410
+USNB Guantanamo Bay,7000.00,"5",280.00,"1999","1999",2. Developed region: nonG7,"-99","-99",,,,
+Cuba,11147407.00,"14",132900.00,"2017","2016",5. Emerging region: G20,CU,CUB,233.52325637938,24.1,38.7,18.370
+Honduras,9038741.00,"13",43190.00,"2017","2016",6. Developing region,HN,HND,469.804541218606,4.8,6.8,20.120
+Ecuador,16290913.00,"14",182400.00,"2017","2016",6. Developing region,EC,ECU,93.4932464995001,5.4,7,14.910
+Colombia,47698524.00,"15",688000.00,"2017","2016",6. Developing region,CO,COL,351.368274461413,8.1,12.7,15.240
+Paraguay,6943739.00,"13",64670.00,"2017","2016",5. Emerging region: G20,PY,PRY,384.514565541438,5.2,19.3,11.160
+Portugal,10336355.00,"14",286194.00,"2017","2016",2. Developed region: nonG7,"-99","-99",1133.38599407747,9.7,38.1,7.870
+Brcko District,92935.50,"8",1024.99,"2017","2016",6. Developing region,"-99","-99",,,,
+Moldova,3474121.00,"12",18540.00,"2017","2016",6. Developing region,MD,MDA,1747.2176123975,10.3,50.5,
+North Korea,25248140.00,"15",40000.00,"2013","2016",7. Least developed region,KP,PRK,993.294031157053,27.4,48.1,
+Turkmenistan,5351277.00,"13",94720.00,"2017","2016",6. Developing region,TM,TKM,962.112574494779,4,15.7,19.020
+Jordan,10248069.00,"14",86190.00,"2017","2016",6. Developing region,JO,JOR,2306.09310207837,6,32,32.090
+Nepal,29384297.00,"15",71520.00,"2017","2016",7. Least developed region,NP,NPL,511.649352226791,16.3,14.8,94.330
+Lesotho,1958042.00,"12",6019.00,"2017","2016",7. Least developed region,LS,LSO,447.998935677157,1.7,6.4,27.780
+Cameroon,24994885.00,"15",77240.00,"2017","2016",6. Developing region,CM,CMR,171.027784815122,2,3,65.260
+Gabon,1772255.00,"12",35980.00,"2017","2016",6. Developing region,GA,GAB,451.242886498468,4.4,10.9,38.510
+Niger,19245344.00,"14",20150.00,"2017","2016",7. Least developed region,NE,NER,118.808847577466,0.04,0.89,70.800
+Burkina Faso,20107509.00,"15",32990.00,"2017","2016",7. Least developed region,BF,BFA,408.142057691241,1.5,4.6,36.780
+Togo,7965055.00,"13",11610.00,"2017","2016",7. Least developed region,TG,TGO,147.325748198128,0.94,3.1,32.710
+Ghana,27499924.00,"15",120800.00,"2017","2016",6. Developing region,GH,GHA,40.5400428392624,1.3,1.8,31.950
+Guinea-Bissau,1792338.00,"12",2851.00,"2017","2016",7. Least developed region,GW,GNB,25.276251566547,1.2,2.6,27.120
+Gibraltar,29396.00,"7",2044.00,"2017","2014",2. Developed region: nonG7,GI,GIB,,,,
+United States of America,326625791.00,"17",18560000.00,"2017","2016",1. Developed region: G7,US,USA,1016.61031016468,30.8,40.1,
+Canada,35623680.00,"15",1674000.00,"2017","2016",1. Developed region: G7,CA,CAN,1021.32124542314,29.3,31.1,6.480
+Mexico,124574795.00,"17",2307000.00,"2017","2016",4. Emerging region: MIKT,MX,MEX,327.080411860136,4.5,7.3,20.080
+Belize,360346.00,"10",3088.00,"2017","2016",6. Developing region,BZ,BLZ,168.615794493793,5.1,15.7,21.230
+Panama,3753142.00,"12",93120.00,"2017","2016",6. Developing region,PA,PAN,219.326285664685,7.8,10.4,11.180
+Venezuela,31304016.00,"15",468600.00,"2017","2016",5. Emerging region: G20,VE,VEN,396.157926471968,11.4,19.7,15.820
+Papua New Guinea,6734541.00,"13",27309.70,"2017","2016",6. Developing region,"-99","-99",1689.30097855477,8.9,15.7,10.910
+Egypt,97041072.00,"16",1105000.00,"2017","2016",5. Emerging region: G20,EG,EGY,1449.41041767633,4.2,11.6,79.280
+Yemen,28036829.00,"15",73450.00,"2017","2016",7. Least developed region,YE,YEM,423.849876302745,4.4,3.9,44.960
+Mauritania,3758571.00,"12",16710.00,"2017","2016",7. Least developed region,MR,MRT,30.2603234628437,1.3,3.9,40.820
+Eq. Guinea,778358.00,"11",31770.00,"2017","2016",7. Least developed region,GQ,GNQ,328.245155264118,2.6,6.4,
+Gambia,2051363.00,"12",3387.00,"2017","2016",7. Least developed region,GM,GMB,249.0509316023,0.29,6.2,32.200
+Hong Kong,7191503.00,"13",427400.00,"2017","2016",6. Developing region,HK,HKG,,,,
+Vatican,1000.00,"3",0.00,"2015","0",2. Developed region: nonG7,VA,VAT,,0,0,
+N. Cyprus,265100.00,"10",3600.00,"2013","2013",6. Developing region,"-99","-99",,,,
+Cyprus U.N. Buffer Zone,10000.00,"6",280.00,"2013","2013",6. Developing region,"-99","-99",,,,
+Siachen Glacier,6000.00,"5",15.00,"2013","2013",6. Developing region,"-99","-99",,,,
+South Korea,51181299.00,"16",1929000.00,"2017","2016",4. Emerging region: MIKT,KR,KOR,1667.39187001133,17.2,41.7,
+Baikonur,70000.00,"8",1155.00,"2013","2013",2. Developed region: nonG7,"-99","-99",,,,
+Akrotiri,7850.00,"5",314.00,"2017","2016",2. Developed region: nonG7,"-99","-99",,,,
+Wales,3142938.15,"12",63815.07,"2017","2016",1. Developed region: G7,"-99","-99",,,,
+United Kingdom,54378779.48,"16",2392030.25,"2017","2016",1. Developed region: G7,"-99","-99",827.669562149452,30.2,35.5,10.530
+Scotland,5390179.96,"13",231605.83,"2017","2016",1. Developed region: G7,"-99","-99",,,,
+Belgium,1080790.00,"12",47835.11,"2017","2016",2. Developed region: nonG7,"-99","-99",2440.88000086208,28.1,52.2,12.880
+Antarctica,4050.00,"4",810.00,"2013","2013",6. Developing region,AQ,ATA,,,,
+Australia,23232413.00,"15",1189000.00,"2017","2016",2. Developed region: nonG7,AU,AUS,916.982184580892,23.6,29.2,7.190
+Greenland,57713.00,"8",2173.00,"2017","2015",2. Developed region: nonG7,GL,GRL,,0,0,
+Fiji,920938.00,"11",8374.00,"2017","2016",6. Developing region,FJ,FJI,491.05455776908,4.8,8,10.190
+New Zealand,4510327.00,"12",174800.00,"2017","2016",2. Developed region: nonG7,NZ,NZL,685.115712946268,26.4,24.2,5.730
+New Caledonia,279070.00,"10",10770.00,"2017","2016",6. Developing region,NC,NCL,,26,59.9,
+Madagascar,25054161.00,"15",36860.00,"2017","2016",7. Least developed region,MG,MDG,404.181994028139,0.8,1.4,21.440
+Philippines,104256076.00,"17",801900.00,"2017","2016",5. Emerging region: G20,PH,PHL,1132.24094873949,11.5,33.1,18.380
+Sri Lanka,22409381.00,"15",236700.00,"2017","2016",6. Developing region,LK,LKA,254.642409728777,2.5,8.3,15.250
+Curaao,149648.00,"9",3128.00,"2017","2012",6. Developing region,CW,CUW,,,,
+Aruba,115120.00,"9",2516.00,"2017","2009",6. Developing region,AW,ABW,,,,
+Bahamas,329988.00,"10",9066.00,"2017","2016",6. Developing region,BS,BHS,438.631766027642,3.5,10.4,17.560
+Turks and Caicos Is.,52570.00,"8",632.00,"2017","2007",6. Developing region,TC,TCA,,,,
+Taiwan,23508428.00,"15",1127000.00,"2017","2016",2. Developed region: nonG7,TW,TWN,,,,
+Japan,126451398.00,"17",4932000.00,"2017","2016",1. Developed region: G7,JP,JPN,1583.16455560449,15.6,41.4,11.450
+St. Pierre and Miquelon,5533.00,"5",215.30,"2017","2016",2. Developed region: nonG7,PM,SPM,,,,
+Iceland,339747.00,"10",16150.00,"2017","2016",2. Developed region: nonG7,IS,ISL,848.109861918056,32.5,27.7,5.940
+Pitcairn Is.,54.00,"1",0.00,"2016","2016",7. Least developed region,PN,PCN,,,,
+Fr. Polynesia,287881.00,"10",5490.00,"2017","2016",6. Developing region,PF,PYF,,23.4,55.7,
+Fr. S. Antarctic Lands,140.00,"1",16.00,"2017","2016",6. Developing region,TF,ATF,,,,
+Seychelles,93920.00,"8",2608.00,"2017","2016",6. Developing region,SC,SYC,543.639405466234,0,0,18.720
+Kiribati,108145.00,"9",211.00,"2017","2016",7. Least developed region,KI,KIR,1396.04157173092,0,0,10.450
+Marshall Is.,74539.00,"8",180.00,"2017","2016",6. Developing region,MH,MHL,,0,0,
+Trinidad and Tobago,1218208.00,"12",43570.00,"2017","2016",6. Developing region,TT,TTO,682.513734687704,5.1,21.8,22.040
+Grenada,111724.00,"9",1511.00,"2017","2016",6. Developing region,GD,GRD,158.195768402408,0,0,21.560
+Caribbean Netherlands,21133.00,"7",1077.14,"0","2013",2. Developed region: nonG7,BQ,BES,,,,
+St. Vin. and Gren.,102089.00,"9",1241.00,"2017","2016",6. Developing region,VC,VCT,259.609144010961,0,0,
+Barbados,292336.00,"10",4804.00,"2017","2016",6. Developing region,BB,BRB,277.518511983089,5.8,13.7,22.240
+Saint Lucia,164994.00,"9",2083.00,"2017","2016",6. Developing region,LC,LCA,553.907000752049,2.6,12.9,21.220
+Martinique,463546.73,"10",7346.81,"2017","2016",1. Developed region: G7,MQ,MTQ,,9.2,12.3,
+Dominica,73897.00,"8",812.00,"2017","2016",6. Developing region,DM,DMA,147.389562155333,0,0,18.170
+Guadeloupe,481238.05,"10",4219.28,"2017","2016",1. Developed region: G7,GP,GLP,,6.5,13,
+Johnston Atoll,231.00,"2",0.00,"2013","2016",7. Least developed region,"-99","-99",,,,
+Montserrat,5292.00,"5",43.80,"2017","2006",6. Developing region,MS,MSR,,,,
+Antigua,93361.00,"8",2139.60,"2017","2016",6. Developing region,"-99","-99",,,,
+St. Kitts and Nevis,52715.00,"8",1427.00,"2017","2016",6. Developing region,KN,KNA,,0,0,
+Barbuda,1370.00,"3",31.40,"2013","2013",6. Developing region,"-99","-99",,,,
+U.S. Virgin Is.,107268.00,"9",3792.00,"2017","2013",6. Developing region,VI,VIR,,,,
+St-Barth¨¦lemy,7184.00,"5",255.00,"2017","2016",2. Developed region: nonG7,BL,BLM,,,,
+Puerto Rico,3351827.00,"12",131000.00,"2017","2016",6. Developing region,PR,PRI,,8.7,15,
+Anguilla,17087.00,"6",175.40,"2017","2009",6. Developing region,AI,AIA,,,,
+British Virgin Is.,35015.00,"7",500.00,"2017","2010",2. Developed region: nonG7,VG,VGB,,,,
+Jamaica,2990561.00,"12",25390.00,"2017","2016",6. Developing region,JM,JAM,312.473039921226,7.3,21.1,13.250
+Cayman Is.,58441.00,"8",2507.00,"2017","2014",5. Emerging region: G20,KY,CYM,,,,
+Bermuda,70864.00,"8",5198.00,"2017","2013",2. Developed region: nonG7,BM,BMU,,,,
+Heard I. and McDonald Is.,0.00,"1",0.00,"2017","2016",7. Least developed region,HM,HMD,,,,
+Saint Helena,7828.00,"5",31.10,"2017","2010",6. Developing region,SH,SHN,,,,
+R¨¦union,837092.49,"11",5222.16,"2017","2016",1. Developed region: G7,RE,REU,,9.6,34.6,
+Mauritius,1356388.00,"12",25850.00,"2017","2016",6. Developing region,MU,MUS,542.471773213386,5.4,17.7,13.540
+Mayotte,237831.14,"10",1145.80,"2017","2016",1. Developed region: G7,YT,MYT,,,,
+Comoros,808080.00,"11",1259.00,"2017","2016",7. Least developed region,KM,COM,585.39769105912,0,0.38,18.600
+Zanzibar,1070000.00,"12",235.40,"0","0",7. Least developed region,"-99","-99",,,,
+So Tom¨¦ and Principe,201025.00,"10",694.00,"2017","2016",7. Least developed region,ST,STP,,6.5,18.2,
+Cabo Verde,560899.00,"11",3583.00,"2017","2016",6. Developing region,CV,CPV,397.1290283222,6.9,16.3,31.990
+Madeira,267785.00,"10",6414.00,"0","2016",2. Developed region: nonG7,"-99","-99",,,,
+Malta,416338.00,"10",16320.00,"2017","2016",2. Developed region: nonG7,MT,MLT,1527.90030092305,11.8,28.2,13.970
+Azores,235374.00,"10",4492.00,"0","2016",2. Developed region: nonG7,"-99","-99",,,,
+Jersey,98840.00,"8",5080.00,"2017","2015",2. Developed region: nonG7,JE,JEY,,,,
+Guernsey,66502.00,"8",3465.00,"2017","2015",2. Developed region: nonG7,GG,GGY,,,,
+Isle of Man,88815.00,"8",7428.00,"2017","2014",2. Developed region: nonG7,IM,IMN,,,,
+land,27153.00,"7",1563.00,"2017","2016",2. Developed region: nonG7,AX,ALA,,,,
+Faeroe Is.,50730.00,"8",2001.00,"2017","2014",2. Developed region: nonG7,FO,FRO,,,,
+Cocos Is.,596.00,"2",8.94,"2014","2016",2. Developed region: nonG7,CC,CCK,,,,
+Br. Indian Ocean Ter.,4000.00,"4",160.00,"2013","2013",2. Developed region: nonG7,IO,IOT,,,,
+Singapore,5888926.00,"13",487900.00,"2017","2016",6. Developing region,SG,SGP,851.17680174091,17.2,41.5,18.260
+Jan Mayen I.,20.00,"1",0.00,"2017","2016",7. Least developed region,"-99","-99",,,,
+Svalbard Is.,2667.00,"4",1.00,"2016","2016",6. Developing region,SJ,SJM,,0,0,
+Norfolk Island,2210.00,"4",33.15,"2014","2016",6. Developing region,NF,NFK,,,,
+Cook Is.,9290.00,"5",244.10,"2017","2010",6. Developing region,CK,COK,,0,0,
+Tonga,106479.00,"9",557.00,"2017","2016",6. Developing region,TO,TON,986.929354363153,0,0,10.080
+Wallis and Futuna Is.,15714.00,"6",60.00,"2017","2016",6. Developing region,WF,WLF,,,,
+Samoa,200108.00,"10",1046.00,"2017","2016",7. Least developed region,WS,WSM,1470.64826419915,28,44,10.560
+Solomon Is.,647581.00,"11",1198.00,"2017","2016",7. Least developed region,SB,SLB,1419.12718900507,3.9,11,
+Tuvalu,11052.00,"6",39.00,"2017","2016",7. Least developed region,TV,TUV,,0,0,11.420
+Bougainville,175160.00,"9",710.30,"0","2016",6. Developing region,"-99","-99",,,,
+Maldives,392709.00,"10",5407.00,"2017","2016",6. Developing region,MV,MDV,560.857721017072,6.1,18.9,7.630
+Nauru,9642.00,"5",150.80,"2017","2015",6. Developing region,NR,NRU,,0,0,12.530
+Micronesia,104196.00,"9",314.00,"2017","2016",6. Developing region,FM,FSM,,0,0,
+S. Geo. and the Is.,30.00,"1",0.30,"2017","2016",7. Least developed region,GS,SGS,,,,
+Bouvet I.,0.00,"1",0.00,"2017","2016",7. Least developed region,BV,BVT,,,,
+Falkland Is.,2931.00,"4",281.80,"2014","2012",2. Developed region: nonG7,FK,FLK,,,,
+Vanuatu,282814.00,"10",723.00,"2017","2016",7. Least developed region,VU,VUT,1069.16285416815,1.8,14.4,10.310
+Niue,1626.00,"3",10.00,"2015","2003",6. Developing region,NU,NIU,,0,0,11.470
+American Samoa,51504.00,"8",711.00,"2017","2013",6. Developing region,AS,ASM,,,,
+Palau,21431.00,"7",276.00,"2017","2016",6. Developing region,PW,PLW,,0,0,12.180
+Guam,167358.00,"9",4882.00,"2017","2013",6. Developing region,GU,GUM,,24.3,53.7,
+N. Mariana Is.,52263.00,"8",682.00,"2017","2013",6. Developing region,MP,MNP,,,,
+Paracel Is.,100.00,"1",0.00,"2017","2016",7. Least developed region,"-99","-99",,,,
+Bahrain,1410942.00,"12",66370.00,"2017","2016",6. Developing region,BH,BHR,1101.4973499516,6.7,16.3,69.040
+Coral Sea Is.,4.00,"1",0.00,"2017","2016",7. Least developed region,"-99","-99",,,,
+Christmas I.,2205.00,"4",33.08,"2016","2016",2. Developed region: nonG7,CX,CXR,,,,
+Tokelau,1285.00,"3",1.50,"2016","1993",7. Least developed region,TK,TKL,,0,0,
+Jarvis I.,0.00,"1",0.00,"2017","2016",7. Least developed region,"-99","-99",,,,
+Baker I.,0.00,"1",0.00,"2017","2016",7. Least developed region,"-99","-99",,,,
+Howland I.,0.00,"1",0.00,"2017","2016",7. Least developed region,"-99","-99",,,,
+Spratly Is.,100.00,"1",0.40,"2017","2016",7. Least developed region,"-99","-99",,,,
+Wake Atoll,68.00,"1",0.00,"2017","2016",7. Least developed region,"-99","-99",,,,
+Midway Is.,0.00,"1",0.00,"2017","2016",7. Least developed region,"-99","-99",,,,
+Clipperton I.,0.00,"1",0.00,"2017","2016",7. Least developed region,"-99","-99",,,,
+Navassa I.,0.00,"1",0.00,"2017","2016",7. Least developed region,"-99","-99",,,,
+Macao,601969.00,"11",63220.00,"2017","2016",6. Developing region,MO,MAC,,,,
+Ashmore and Cartier Is.,0.00,"1",0.00,"2017","2016",7. Least developed region,"-99","-99",,,,
+Palmyra Atoll,0.00,"1",0.00,"2017","2016",7. Least developed region,"-99","-99",,,,
+Kingman Reef,0.00,"1",0.00,"2017","2016",7. Least developed region,"-99","-99",,,,
+Bajo Nuevo Bank,0.00,"1",0.00,"2017","2016",7. Least developed region,"-99","-99",,,,
+Serranilla Bank,0.00,"1",0.00,"0","0",7. Least developed region,"-99","-99",,,,
+Scarborough Reef,0.00,"1",0.00,"2012","2016",7. Least developed region,"-99","-99",,,,
